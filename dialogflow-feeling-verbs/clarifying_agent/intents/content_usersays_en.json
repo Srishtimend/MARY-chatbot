@@ -1,0 +1,134 @@
+[
+  {
+    "id": "74661a1a-b9ce-4588-9cb6-70ad1a062cd1",
+    "data": [
+      {
+        "text": "satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "093c64b5-bcff-490f-8205-35fa5a854fb3",
+    "data": [
+      {
+        "text": "fulfilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f66ad5d1-fb4f-4cdc-870d-cdbbe44e81ed",
+    "data": [
+      {
+        "text": "content",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01d97409-7b25-476c-a4d3-fa28e60b330d",
+    "data": [
+      {
+        "text": "surprised",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c620184-6923-48b2-899d-4f96815cd8c3",
+    "data": [
+      {
+        "text": "clever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b8ca585-2c35-40db-854a-d0e136c4e128",
+    "data": [
+      {
+        "text": "encouraged",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c839e896-5c9e-4282-ba3f-2bd1f8dcde19",
+    "data": [
+      {
+        "text": "pleased",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8eb028cd-8142-4fa2-ae30-4898761a2603",
+    "data": [
+      {
+        "text": "comfortable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e102465-49cd-44e1-b1b4-f25ec072d275",
+    "data": [
+      {
+        "text": "at ease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c399fad-ca3b-454a-b67d-324c6aa30508",
+    "data": [
+      {
+        "text": "peaceful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87e784be-b0ae-4857-a8f9-a5e55ee710a1",
+    "data": [
+      {
+        "text": "calm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

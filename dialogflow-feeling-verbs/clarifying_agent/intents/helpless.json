@@ -1,0 +1,35 @@
+{
+  "id": "78db5eb4-b139-4642-ad36-62a88f16dd26",
+  "name": "helpless",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "sorry to hear that, I\u0027d do what I can to help, tell me about your situation",
+            "I\u0027ll see to my best towards assisting you, first how did you get here?",
+            "ah, why do you feel this way?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

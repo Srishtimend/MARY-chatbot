@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bd643d7e-f1ab-40e5-a6ee-c9c4c1a87c88",
+    "data": [
+      {
+        "text": "confused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca8c2add-22a0-4993-b60a-d1299ebba80e",
+    "data": [
+      {
+        "text": "atupefied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "406dd308-0ecb-46ce-946c-4efafbb22bdc",
+    "data": [
+      {
+        "text": "shy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a16a3d7-3a70-43be-bc75-ea0fd48083f0",
+    "data": [
+      {
+        "text": "hesitant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5bcf221-6f16-47c2-acc7-7469469e19f2",
+    "data": [
+      {
+        "text": "embarrased",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e70582f4-ad85-4bac-9195-63560731d969",
+    "data": [
+      {
+        "text": "perplexed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "062fbe45-f04e-44c1-8ad3-b0b51a805ae9",
+    "data": [
+      {
+        "text": "indecisive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc7ad5b2-11bb-4f3c-ab06-5eb087efd890",
+    "data": [
+      {
+        "text": "uncertain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8291bbb9-80c9-49ca-9b8a-30dd0d71371d",
+    "data": [
+      {
+        "text": "skeptical",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c19479e-bec1-4045-b31a-637d3163fb04",
+    "data": [
+      {
+        "text": "doubtful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

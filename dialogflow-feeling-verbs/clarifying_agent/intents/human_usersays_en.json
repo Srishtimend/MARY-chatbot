@@ -1,0 +1,74 @@
+[
+  {
+    "id": "052ab5d4-9eb7-46b5-941a-5dbaf924b0bb",
+    "data": [
+      {
+        "text": "i want to talk with a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2063773-9ab8-4be3-bab4-400981c20438",
+    "data": [
+      {
+        "text": "i want a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6395bfea-ebde-4ed4-98bc-a6c1f8cbede8",
+    "data": [
+      {
+        "text": "let me talk to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8956c78c-7e31-4ab5-b393-510fd0b6682b",
+    "data": [
+      {
+        "text": "hook me up with a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33512249-0845-4852-9992-d705bb069f67",
+    "data": [
+      {
+        "text": "I want to talk to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55c874b6-b63e-4025-bd4a-4e6127d66ae6",
+    "data": [
+      {
+        "text": "human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

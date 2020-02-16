@@ -1,0 +1,35 @@
+{
+  "id": "3cb09f86-a2f0-4d00-bab8-b96e724a8924",
+  "name": "alive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "it\u0027s great you feel alive, what\u0027s up?",
+            "happy to hear this, what\u0027s the occasion?",
+            "sounds good, what makes so feel this way?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

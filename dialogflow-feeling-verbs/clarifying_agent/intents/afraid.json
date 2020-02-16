@@ -1,0 +1,35 @@
+{
+  "id": "fd227ab0-ef6f-4cf9-9f4c-d9c501e42dc3",
+  "name": "afraid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "don\u0027t be afraid, I got your back, why do you feel this way?",
+            "it\u0027s ok, i know it\u0027s hard, but I just want to know why do you think you\u0027re feeling what you\u0027re feeling?",
+            "yes, and rightfully so, its likely your gut telling you something, so what\u0027s bothering you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

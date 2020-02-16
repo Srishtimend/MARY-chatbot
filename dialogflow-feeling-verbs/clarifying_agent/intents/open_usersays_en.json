@@ -1,0 +1,98 @@
+[
+  {
+    "id": "37cb6687-8aae-4e34-af37-9a1a8c13066d",
+    "data": [
+      {
+        "text": "satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38795267-1ef4-4c30-8f81-50a33cca015d",
+    "data": [
+      {
+        "text": "interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffb7ad16-cbd8-44eb-ab0e-f580eac072e8",
+    "data": [
+      {
+        "text": "sympathetic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27901ece-f087-4920-9ecc-ac57c2ac7166",
+    "data": [
+      {
+        "text": "amazed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1803a9-b80d-4781-83bd-f2156765e097",
+    "data": [
+      {
+        "text": "easy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcdd46f5-6db7-4544-b0b8-527eea54475c",
+    "data": [
+      {
+        "text": "reliable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a18e36b4-5471-4408-8391-f1db6c5e51b2",
+    "data": [
+      {
+        "text": "confident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0eef7174-e64b-4ca5-a8f8-b866488f9d74",
+    "data": [
+      {
+        "text": "kind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

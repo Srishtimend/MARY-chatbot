@@ -1,0 +1,146 @@
+[
+  {
+    "id": "960f6cbf-c3fe-48ac-a162-05ad3bcca55a",
+    "data": [
+      {
+        "text": "afraid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecce9f82-3723-4520-8f09-2ca02020745e",
+    "data": [
+      {
+        "text": "worried",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f61ec21-b00c-4696-906d-9e5cd810b076",
+    "data": [
+      {
+        "text": "scared",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "518fdb81-8be3-4c2c-91ba-ac7ed6f2c87d",
+    "data": [
+      {
+        "text": "unsure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54389fc9-7873-453a-819f-a5d622f0f838",
+    "data": [
+      {
+        "text": "nervous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72b1c71b-5bb7-4bdb-9475-27481145da2f",
+    "data": [
+      {
+        "text": "panicked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c6d821-eff5-4e3a-af46-7829e2022d3e",
+    "data": [
+      {
+        "text": "panic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5015b8d6-e526-44c8-b7d3-ee2082d3ea4e",
+    "data": [
+      {
+        "text": "alarmed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a277949e-1b40-4d2f-ab92-3c2f15261698",
+    "data": [
+      {
+        "text": "anxious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec093fc9-b319-4a4d-9400-a52e47655fd9",
+    "data": [
+      {
+        "text": "suspicious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46d7dc14-d40a-425c-8884-84cc1aceaa16",
+    "data": [
+      {
+        "text": "fearful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6012b4f-6333-4962-a894-f79c6ebb1655",
+    "data": [
+      {
+        "text": "terrified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

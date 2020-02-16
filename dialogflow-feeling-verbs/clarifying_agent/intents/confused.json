@@ -1,0 +1,35 @@
+{
+  "id": "82431d3c-b3e4-45f8-b612-f9196e8173d0",
+  "name": "confused",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027d like to help you clarify direction, but first what\u0027s going on exactly?",
+            "ok, let\u0027s start at the beginning, why do you feel this way?",
+            "mm, tell me about it"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

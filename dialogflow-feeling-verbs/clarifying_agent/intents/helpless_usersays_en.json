@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dea9c3df-9a8d-4598-ad23-a64d4b70dd66",
+    "data": [
+      {
+        "text": "forced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bd6bb8b-38d7-40cb-b69c-ef9481999a0c",
+    "data": [
+      {
+        "text": "empty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c298dc9d-e4d9-4cd7-b76b-b37d67ca121d",
+    "data": [
+      {
+        "text": "vulnerable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43687190-c8fd-48e4-b4b1-7d9986bc6c62",
+    "data": [
+      {
+        "text": "inferior",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a73c5f5b-2344-45ec-8289-83a2cd943cd6",
+    "data": [
+      {
+        "text": "useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc22f87d-5f92-4d59-b0d2-791b02f8d239",
+    "data": [
+      {
+        "text": "fatigued",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb93426c-7aff-4a9a-98f0-735eb1984738",
+    "data": [
+      {
+        "text": "paralyzed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e691f558-b4c9-4069-ba00-f43b11ee6d6c",
+    "data": [
+      {
+        "text": "overwhelmed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da95f76c-1a04-44fd-828c-e5157c7f7051",
+    "data": [
+      {
+        "text": "incapable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d87f4e3-b6a5-4ee5-9212-b38ffa49e4b5",
+    "data": [
+      {
+        "text": "alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
