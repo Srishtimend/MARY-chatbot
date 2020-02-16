@@ -3,10 +3,13 @@
 Objective: To get the who what when where and why from a sentence, then rearrange them in a variety of ways to form questions.
 
 #### Example 1
+```
 I have always like onions
 When did you start liking onions?
+```
 
 #### Example 2
+```
 I watched a play
 who: I
 verb: watched
@@ -21,6 +24,7 @@ Where did you watch it?
 Did you like watching it?
 What made you want to watch it?
 By play, do you mean a drama performance, or moves made in a sports game?
+```
 
 ## Sample Outputs
 make_intermediate.py
